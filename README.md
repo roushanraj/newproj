@@ -1,3 +1,3 @@
 # newproj
 
-Demo repo to learn git.
+Demo repository to learn git. Learning some more.
